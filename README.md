@@ -1,4 +1,49 @@
-### Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola! Bienvenido a mi perfil👋</h1></summary>
+  </ul>
+ <h2 align="center" >Me llamo Gerónimo Agustín Luminari </h2>
+<p align="center"> Soy Técnico Superior en Desarrollo de Software, y estoy en búsqueda de mi primer trabajo como programador</p>
+</div>
+
+<div align="center">
+  <p>Me Puedes contactar por:</p>
+<a href="https://www.linkedin.com/in/geronimoluminari/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<a href="mailto:geronimoluminari3@outlook.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+</a>
+
+</div>
+
+<h2 align="center">🛠️ Lenguajes y herramientas</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=java,ts,html,css,react,mongo,git,vscode,postman,spring,nextjs,mysql&perline=10"  />
+</p>
+<br />
+<div align="center">
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Mis Projectos</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/geronimoAL/back-end-tienda"><b>Tienda virtual (back-end)</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/geronimoAL/VentaDeCasas"><b>Venta de casas</b></a></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/geronimoAL/CreadorDeContenidoDeportivo"><b>Creador de contenido deportivo</b></a></td>
+    </tr>
+   
+  </tbody>
+</table>
+</div>
 
 <!--
 **geronimoAL/geronimoAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
