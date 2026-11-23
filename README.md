@@ -24,25 +24,7 @@
 </p>
 <br />
 <div align="center">
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Mis Projectos</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/geronimoAL/back-end-tienda"><b>Tienda virtual (back-end)</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/geronimoAL/VentaDeCasas"><b>Venta de casas</b></a></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/geronimoAL/CreadorDeContenidoDeportivo"><b>Creador de contenido deportivo</b></a></td>
-    </tr>
-   
-  </tbody>
-</table>
+
 </div>
 
 <!--
